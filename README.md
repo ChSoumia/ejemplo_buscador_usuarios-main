@@ -1,3 +1,7 @@
+## El objetivo de esta práctica es realizar una Single Page Application (SPA): Buscador de Usuarios:
+Esta aplicación tendrá un campos en los que el usuario introduce nombre que busca y dos botónes que al ser pulsado realizará una query a un servidor (API) y mostrará los resultados en unas tarjetas. Un botón muestra todos los usuarios mientras que el otro filtra solo el usuario/s que escribimos .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
